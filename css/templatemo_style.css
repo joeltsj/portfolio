@@ -48,11 +48,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 }
 
-h1	{	font-size: 1.5em;
+h1	{	font-size: 4em;
 	color: #ffffff;
 	background: #343537;
+	opacity: 0.7;
 	padding: 10px 8px;
-	float: left;
+	text-align: center;
 	}
 	
 h2	{ font-size: 24px; color: #ffffff; }
@@ -183,7 +184,7 @@ a.menu-toggle-btn {
 
 	-webkit-background-size: 125%;
 	-moz-background-size: 125%;
-	background-size: 125%;
+	background-size: 26rem;
 	visibility: visible;
 
 	-webkit-transform: rotate(-60deg);
@@ -744,3 +745,4 @@ and (max-width : 559px)	{
 .content { display: none; height: auto; }
 .homepage	{ display: block; }
 .leftalign	{ float: left; }
+
