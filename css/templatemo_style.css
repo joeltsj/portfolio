@@ -44,7 +44,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Didot, Didot LT STD;
+	font-family: Bodoni MT, Garamond;
 	font-weight: 400;
 }
 
@@ -472,6 +472,7 @@ a.menu-toggle-btn {
 	}
 
 .templatemo_loadmore button{ 
+	font-family: Bodoni MT, Garamond;
 	border: none; 
 	background: #b79e41; 
 	color: #ffffff; 
